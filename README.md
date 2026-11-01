@@ -1,6 +1,6 @@
 # HR Recruitment & Workforce Analytics Dashboard (Excel)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 I built this dashboard to answer two questions an HR team asks all the time: how well is hiring going, and who is leaving? Working from simulated employee and recruitment data, I cleaned the data, built the calculations, and turned everything into an interactive Excel dashboard with KPI cards, charts and slicers.
 
@@ -31,7 +31,7 @@ An HR team in a company of 200 to 500 people has no clear view of recruitment pe
 
 **3. Building pivot tables.** I created five pivots: Employees by Department, Gender Distribution, Average Salary by Department, Hiring Trend by Month, and Average Time to Hire by Department.
 
-![Pivot tables](screenshots/pivot-tables.png)
+![Pivot tables](Screenshots/pivot-tables.png)
 
 **4. Designing the dashboard.** Four KPI cards sit at the top, followed by four charts and three slicers (Department, Status and Application Month) that allow users to interact with and filter the dashboard. I kept it to a small colour palette so the numbers stay the focus.
 
@@ -73,7 +73,7 @@ The attrition rate is calculated as the number of employees marked as Left divid
 ```
 README.md
 Didi_HR_Analytics_Dashboard.xlsx
-screenshots/
+Screenshots/
     dashboard.png
     pivot-tables.png
 ```
