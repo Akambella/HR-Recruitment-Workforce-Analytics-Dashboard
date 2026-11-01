@@ -33,7 +33,7 @@ An HR team in a company of 200 to 500 people has no clear view of recruitment pe
 
 ![Pivot tables](screenshots/pivot-tables.png)
 
-**4. Designing the dashboard.** Four KPI cards sit at the top, followed by four charts and three slicers (Department, Status and Application Month) that filter everything at once. I kept it to a small colour palette so the numbers stay the focus.
+**4. Designing the dashboard.** Four KPI cards sit at the top, followed by four charts and three slicers (Department, Status and Application Month) that allow users to interact with and filter the dashboard. I kept it to a small colour palette so the numbers stay the focus.
 
 ## Key metrics
 
@@ -54,7 +54,7 @@ An HR team in a company of 200 to 500 people has no clear view of recruitment pe
 
 **Hiring speed varies by department.** HR and Sales filled roles fastest at around 18 days, while Finance and IT took the longest at around 24 days.
 
-**Hiring picked up through the quarter.** Hires by application month went from 2 in January to 2 in February and 4 in March 2024.
+**Hiring activity increased through the quarter.** The number of candidates who were eventually hired, grouped by their application month, was 2 in January, 2 in February and 4 in March 2024.
 
 **The gender split is close to even.** 8 female and 7 male employees.
 
@@ -65,6 +65,8 @@ Excel Tables, calculated columns, PivotTables, slicers, KPI formulas (`COUNTA`, 
 ## A note on the data
 
 The dataset is simulated and does not describe any real company or person. The numbers are small on purpose, so the focus stays on the method and the design rather than on the sample itself.
+
+The attrition rate is calculated as the number of employees marked as Left divided by the total number of employee records (4 ÷ 15 = 26.7%). This is a simplified overall attrition measure rather than a period-specific annual attrition rate.
 
 ## Repository contents
 
