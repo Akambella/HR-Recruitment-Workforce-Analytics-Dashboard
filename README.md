@@ -1,6 +1,6 @@
 # HR Recruitment & Workforce Analytics Dashboard (Excel)
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 I built this dashboard to answer two questions an HR team asks all the time: how well is hiring going, and who is leaving? Working from simulated employee and recruitment data, I cleaned the data, built the calculations, and turned everything into an interactive Excel dashboard with KPI cards, charts and slicers.
 
