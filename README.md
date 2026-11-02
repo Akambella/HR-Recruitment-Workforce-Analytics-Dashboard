@@ -80,7 +80,7 @@ Screenshots/
 
 ## What I would do next
 
-I rebuilt the same analysis in Power BI to compare how both tools handle the same data. You can find that project in my other repository.
+I rebuilt the same analysis in Power BI to compare how both tools handle the same data. You can find that project here: [People Analytics & Workforce Insights Dashboard (Power BI)](https://github.com/Akambella/People-Analytics-Workforce-Insights-Dashboard).
 
 ---
 
